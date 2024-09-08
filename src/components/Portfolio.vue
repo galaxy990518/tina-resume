@@ -66,7 +66,7 @@ const portfolios = ref([
     description:
       '此專案是由 Vue3 + Vite 建立，透過此專案練習了 Vue3 的語法、如何使用 Tailwind 切版、也學會了如何透過 axios 進行串接 API，以及如何使用 Vue Router 建立頁面路由。',
     imageSrc: new URL('@/assets/images/portfolio/vue3-youtube-app.png', import.meta.url).href,
-    vercelLink: 'https://vue3-youtube-app.vercel.app/',
+    vercelLink: 'https://vue3-video-website-practice.vercel.app/',
     githubLink: 'https://github.com/galaxy990518/vue3-youtube-app.git'
   },
   {
